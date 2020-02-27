@@ -1,3 +1,13 @@
+/*
+	---------------------------------------------------------------------------------------------------
+	| Como estou aprendendo GO ainda todo o código foi estudado nesta postagem:                       |
+	|https://medium.com/@KentGruber/building-a-high-performance-port-scanner-with-golang-9976181ec39d |
+	---------------------------------------------------------------------------------------------------
+	*/
+
+
+
+
 package main
 
 import (
