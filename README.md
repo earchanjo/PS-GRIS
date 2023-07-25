@@ -1,2 +1,2 @@
 # PS-GRIS
-Repositório para tags da semana de treinamento 
+Repositório de estudo para processo seletivo Equipe GRIS.
